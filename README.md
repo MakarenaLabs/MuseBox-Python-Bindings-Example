@@ -8,7 +8,7 @@ The Jupyter Notebook shows an AI pipeline example using MuseBox on a KV260, whic
 
 Read the article [here](https://www.makarenalabs.com/musebox-how-to-create-your-ai-pipeline-in-fpga).
 
-# Installation
+# Requirements
 To use this system, you will need:
 
 - KV260 FPGA by AMD
